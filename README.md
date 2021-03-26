@@ -1,4 +1,4 @@
 # STA
 ACT and SAT Standardized Testing Analysis 
 ##### Python Analysis (Jupyter Notebook) of ACT and SAT Score with Per Capita Income from 2017. 
-##### These dataset limited the analysis (due to broad versus specific categorical breakdown of information).
+##### The combined dataset limited the analysis (due to broad versus specific categorical breakdown of the information itself).
